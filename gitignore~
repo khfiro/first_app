@@ -1,0 +1,4 @@
+.bundle
+db/*.SQLite3
+log/*.log
+tmp/**/*

@@ -1,0 +1,12 @@
+.bundle
+db/*.SQLite3
+log/*.log
+tmp/**/*
+tmp/*
+Gemfile.lock
+doc/api
+doc/app
+*.tmp
+*.swp
+*~
+.DS_store
